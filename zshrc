@@ -38,3 +38,5 @@ export BUNDLER_EDITOR="'/Applications/Sublime Text 2.app/Contents/SharedSupport/
 export BUNDLER_EDITOR="'/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl'"
 export BUNDLER_EDITOR="'/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl'"
 export BUNDLER_EDITOR="'/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl'"
+export PATH="/usr/local/opt/postgresql@9.5/bin:$PATH"
+export BUNDLER_EDITOR="'/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl'"
